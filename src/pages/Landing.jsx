@@ -249,7 +249,7 @@ export default function Landing() {
           </div>
         ))}
         <div style={{ marginLeft: 'auto', background: '#E8F5E9', padding: '5px 14px', borderRadius: 9 }}>
-          <span style={{ fontSize: 12, fontWeight: 700, color: '#2E7D32' }}>LPU Capstone · 2024–25</span>
+          <span style={{ fontSize: 12, fontWeight: 700, color: '#2E7D32' }}>LPU Capstone · 2025-2026</span>
         </div>
       </div>
 
