@@ -14,7 +14,6 @@ const appDetails = [
   { l: 'File Size',     v: '12.4 MB' },
   { l: 'Min Android',   v: 'Android 8.0 (API 26)' },
   { l: 'Architecture',  v: 'Kotlin · MVVM' },
-  { l: 'Database',      v: 'Room DB (Offline)' },
   { l: 'Notifications', v: 'Firebase FCM' },
   { l: 'Released',      v: 'April 2026' },
 ]

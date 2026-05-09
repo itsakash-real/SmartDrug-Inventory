@@ -31,7 +31,7 @@ India has 1 million+ registered pharmacies, most without any digital inventory s
 
 == ANDROID APP — 7 CORE MODULES ==
 MODULE 1: USER AUTHENTICATION - Email/phone login via Firebase Auth, Google Sign-In (OAuth 2.0), OTP-based phone authentication, Persistent login, Forgot Password
-MODULE 2: INVENTORY MANAGEMENT - Add medicines with all fields, Edit/delete/archive, Search/filter/sort, Status pills, Room Database offline
+MODULE 2: INVENTORY MANAGEMENT - Add medicines with all fields, Edit/delete/archive, Search/filter/sort, Status pills, Offline support
 MODULE 3: EXPIRY TRACKING - 30-day Notice (blue), 15-day Warning (amber), 7-day Critical (red), Auto-scheduled alerts
 MODULE 4: STOCK MONITORING - Configurable min threshold (default: 20), Low-stock alerts, One-tap restock
 MODULE 5: PUSH NOTIFICATIONS - Firebase FCM, Background delivery, Configurable quiet hours, Per-tier toggle
@@ -39,7 +39,7 @@ MODULE 6: ANALYTICS DASHBOARD - Bar/Donut/Line charts, Key insights, Time filter
 MODULE 7: VENDOR MANAGEMENT - Vendor profiles, Purchase orders, Transaction history
 
 == TECHNOLOGY STACK ==
-Language: Kotlin, Architecture: MVVM, Database: Room Database (offline), Auth: Firebase Auth, Notifications: FCM, Charts: MPAndroidChart, Version: 1.0.0
+Language: Kotlin, Architecture: MVVM, Auth: Firebase Auth, Notifications: FCM, Charts: MPAndroidChart, Version: 1.0.0
 
 == SDG ALIGNMENT ==
 SDG 3 – Good Health, SDG 9 – Innovation, SDG 12 – Responsible Production, SDG 11 – Sustainable Cities

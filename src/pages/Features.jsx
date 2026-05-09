@@ -100,7 +100,7 @@ const modules = [
   },
   {
     icon: '🧾', title: 'Inventory Management', sub: 'Full drug catalog control',
-    color: '#E3F2FD', badge: 'Room Database · Offline',
+    color: '#E3F2FD', badge: 'Offline Supported',
     items: [
       'Add medicines: name, batch, qty, expiry, supplier, category, price',
       'Edit / delete / archive medicines',
@@ -256,7 +256,7 @@ export default function Features() {
             100% offline for core features
           </h3>
           <p style={{ fontSize: 13, color: '#6B7280', lineHeight: 1.75 }}>
-            Room Database stores all data locally on device. Internet only needed for login and FCM alerts.
+            All data is stored locally on device. Internet only needed for login and FCM alerts.
           </p>
         </div>
         <a href="/download" className="btn-primary ripple-btn btn-pulse" onClick={createRipple} style={{
